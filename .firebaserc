@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-5861f": {
+      "hosting": {
+        "da-keep": [
+          "danotes-5861f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-5861f"
+  }
+}
